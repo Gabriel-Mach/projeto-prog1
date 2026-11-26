@@ -1,5 +1,5 @@
 SISTEMA DE GERENCIAMENTO DE MERCEARIA
-Descrição
+
 Este programa foi desenvolvido em Python para realizar o gerenciamento básico de produtos de uma mercearia. Os dados são armazenados em um arquivo CSV, permitindo cadastrar, consultar, atualizar e excluir produtos de forma simples através de um menu interativo no terminal.
 Funcionalidades
 
