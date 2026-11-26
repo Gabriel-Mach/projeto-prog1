@@ -99,7 +99,7 @@ def cadastrarProduto():
     with open(ARQUIVO, "a", newline="", encoding="utf-8") as arquivo:
         escritor = csv.DictWriter(arquivo, fieldnames= CAMPOS)
         escritor.writerow(produto)
-
+    print("\nProduto cadastrado com sucesso!\n")
 
         
 def listarEstoque():
